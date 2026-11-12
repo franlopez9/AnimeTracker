@@ -31,15 +31,6 @@
 
 ---
 
-## 🌐 Publicar en GitHub Pages
-
-1. Sube los archivos `index.html` y `README.md` a un nuevo repositorio de GitHub.
-2. Ve a **Settings > Pages** en tu repositorio de GitHub.
-3. En **Source**, selecciona la rama `main` y la carpeta `/root`.
-4. ¡Guarda y listo! Tu tracker estará disponible en `https://tu-usuario.github.io/nombre-repositorio/`.
-
----
-
 ## 📄 Licencia
 
 Este proyecto es de código abierto bajo la licencia **MIT**.
